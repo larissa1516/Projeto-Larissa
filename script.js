@@ -6,15 +6,15 @@
 
     aumentarfontebotao.addEventListener('click',function(){
         tamanhoatualfonte += 0.1;
-        document.body.style.fontSize = `${tamanhoatualfonte}rem`
+        document.body.style.fontSize = `${tamanhoatualfonte}rem`;
    
-    })
+    });
 
-    diminuifontebotao.addEventListener('click',function(){
+    diminuifontebotao.addEventListener('click', function(){
         tamanhoatualfonte -= 0.1;
-        document.body.style.fontSize = `${tamanhoatualfonte}rem`
+        document.body.style.fontSize = `${tamanhoatualfonte}rem`;
 
-    })
+    });
 
 
- })
+ });
