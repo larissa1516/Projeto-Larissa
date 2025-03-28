@@ -148,7 +148,7 @@ h2 {
 }
 .rotacao-botao{
     transform: rotate(-90deg);
-    transform-origem: right center;
+    transform-origin: right center;
 }
 
 .opcoes-acessibilidade{
